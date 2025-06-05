@@ -1,4 +1,4 @@
-# 🧠 adag1o aka Adam Zasada
+# 🧠 adag1o
 
 Founder of [Soul Agents](https://soulagents.io) — building autonomous AI agents for Web3.  
 Ex-founder of [0xKYC](https://0xkyc.id), a zk-proof identity protocol (Outlier, Bufficorn, Celestia CTO backed).
@@ -8,6 +8,6 @@ Prev: Web3 infra, banking APIs (used by Revolut). Youngest coder at PJATK (age 1
 Also: Ex-DJ @ Café Mambo Ibiza — still love sound systems.
 
 🎯 Currently open-sourcing 0xKYC — looking for contributors. Pull requests welcome.  
-🏆 3rd place @ Brian AI Hackathon (check pinned repo).  
+🏆 3rd place @ Brian AI Hackathon — [check the repo](https://github.com/adag1oeth/trading)
 
 📬 [@adag1oeth](https://x.com/adag1oeth) • [LinkedIn](https://linkedin.com/in/adamzasada)
