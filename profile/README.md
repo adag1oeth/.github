@@ -8,6 +8,6 @@ Prev: Web3 infra, banking APIs (used by Revolut). Youngest coder at PJATK (age 1
 Also: Ex-DJ at Café Mambo Ibiza, still love sound systems.
 
 🎯 Currently open-sourcing 0xKYC, looking for contributors. Pull requests welcome.  
-🏆 3rd place at Brian AI Hackathon, [check the repo](https://github.com/adag1oeth/trading)
+🏆 3rd place at Brian AI Hackathon, [check the repo](https://github.com/adag1oeth/trading).
 
 📬 [X (Twitter)](https://x.com/adag1oeth) • [LinkedIn](https://linkedin.com/in/adag1oeth)
