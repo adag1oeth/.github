@@ -10,4 +10,4 @@ Also: Ex-DJ @ Café Mambo Ibiza — still love sound systems.
 🎯 Currently open-sourcing 0xKYC — looking for contributors. Pull requests welcome.  
 🏆 3rd place @ Brian AI Hackathon — [check the repo](https://github.com/adag1oeth/trading)
 
-📬 [@adag1oeth](https://x.com/adag1oeth) • [LinkedIn](https://linkedin.com/in/adamzasada)
+📬 [X (Twitter)](https://x.com/adag1oeth) • [LinkedIn](https://linkedin.com/in/adag1oeth)
