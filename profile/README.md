@@ -1,6 +1,6 @@
 # 🧠 adag1o
 
-Founder of [Soul Agents](https://soulagents.io), building autonomous AI agents for Web3.  
+Ex-founder of [Soul Agents](https://soulagents.io), building autonomous AI agents for Web3.  
 Ex-founder of [0xKYC](https://0xkyc.id), a zk-proof identity protocol (Outlier, Bufficorn, Celestia CTO backed).
 
 Code in TypeScript, Python, MongoDB, and Vector DBs for RAG and AI-native infra.  
